@@ -1,0 +1,19 @@
+{
+  "name": "@adityapurwa/starflies",
+  "version": "1.0.1",
+  "description": "Add starflies to a website",
+  "main": "src/index.js",
+  "private": false,
+  "keywords": [
+    "starflies",
+    "canvas",
+    "decorations",
+    "sky",
+    "stars"
+  ],
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  },
+  "author": "Aditya Purwa",
+  "license": "MIT"
+}
