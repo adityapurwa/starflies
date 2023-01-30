@@ -13,6 +13,9 @@ Because starry night is beautiful.
 
 ## Demo
 
+<img width="1728" alt="Screenshot 2023-01-30 at 14 00 22" src="https://user-images.githubusercontent.com/6219895/215410386-4265a750-66b6-4a40-b815-6f38fcf3391c.png">
+
+
 [https://thatskywish.netlify.app](https://thatskywish.netlify.app/)
 
 ## Install
